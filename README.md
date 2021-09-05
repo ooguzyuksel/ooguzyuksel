@@ -1,4 +1,4 @@
-<h1 align="left">Hi there this is Oguzhan Yuksel, Software developer, Musician and Technology Enthusiast. 
+<h1 align="left">Hi there this is Oguzhan Yuksel. Software Developer, Musician and Technology Enthusiast. 
   <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
 
 <br/>
