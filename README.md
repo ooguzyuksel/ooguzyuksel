@@ -1,5 +1,7 @@
-<h1 align="left">Hi there this is Oguzhan Yuksel. <br/> Software Developer, Musician and Technology Enthusiast. 
-  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
+<h1 align="left">Hi there this is Oguzhan Yuksel. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>
+  
+  Software Developer, Musician and Technology Enthusiast. 
+  </h1>
 
 <br/>
 
